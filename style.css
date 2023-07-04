@@ -473,7 +473,10 @@ a:hover.download-btn-blue {
     cursor: pointer;
     display: block;
     margin: 0 auto;
-
+}
+.ftr-submit:hover {
+    color: #414042;
+    background-color: #e7e7e7;
 }
 
 .ftr {
